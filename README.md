@@ -1,7 +1,8 @@
 # Fitness Tracking app with Fitbit API - developed by project team ISDEEN of HKUST ISDN
 This app is developed in Android Studio with Java. It is a sub-system of a self-designed fitness game console system. This application aims to track exercising record with Fitbit API and convert them to game credits(coins) on ratio. Meanwhile, this application also implemented a character outfit customizing function. 
 
-The complete source code is placed on the link above. The apk file of the application can be found in the second folder.
+The complete source code is placed on the link below. The apk file of the application can be found on the above.
+https://drive.google.com/drive/folders/12z2hpVJlmTbAyV1XcXhZGNZLksp4A8-o?usp=sharing
 
 Remark: 
 1) This is an Android Studio project for version 4.2.0 or above. Please check if your Android Studio ver is compatible.
